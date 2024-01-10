@@ -34,7 +34,7 @@
   <summary><b>:zap: GitHub Profile Stat</b></summary>
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=aydaghasemi66&show_icons=true" />
 </details>
-<details>
+
 
 
 <!-- GitHub section: END -->
