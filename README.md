@@ -10,7 +10,7 @@
 
 
 <!-- code gif-->
-<img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="./code.gif" width="400" height="300" />
 
 
 <!-- About section: END -->
