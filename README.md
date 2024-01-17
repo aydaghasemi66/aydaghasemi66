@@ -21,6 +21,12 @@
  <!-- Conecct section: END -->
  
   <!-- GitHub section -->
+  <!-- Two images side by side -->
+<div>
+  <img src="./github-header-image.png" alt="Header Image" width="400" height="300" />
+  <img src="./code.gif" alt="Code GIF" width="400" height="300" />
+</div>
+
 
  ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
 
