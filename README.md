@@ -9,18 +9,7 @@
 
 
 
-<!-- About section: END -->
 
-
-<!-- Conecct section -->
-
- <!-- Conecct section: END -->
- 
-  <!-- GitHub section -->
-  <!-- Two images side by side -->
-
-  
-  <img src="./code.gif" alt="Code GIF" width="400" height="300" />
  
 
 
